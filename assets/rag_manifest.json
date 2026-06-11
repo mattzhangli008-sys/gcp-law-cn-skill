@@ -1,0 +1,259 @@
+{
+  "created_at": "2026-06-11T15:44:29",
+  "python": "python3.12",
+  "collection": "gcp_regulations",
+  "chroma_dir": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/rag_chroma",
+  "embedding_function": "hash_ngram_1024",
+  "document_count": 32,
+  "chunk_count": 466,
+  "metadata_fields": [
+    "article_no",
+    "authority",
+    "chunk_id",
+    "chunk_index",
+    "detail_url",
+    "doc_id",
+    "doc_type",
+    "download_url",
+    "effective",
+    "english",
+    "file_name",
+    "file_type",
+    "number",
+    "official_url",
+    "page_end",
+    "page_start",
+    "paragraph_end",
+    "paragraph_start",
+    "published",
+    "section_title",
+    "source_path",
+    "title"
+  ],
+  "documents": [
+    {
+      "doc_id": "19",
+      "title": "临床试验用药品附录（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/19_临床试验用药品附录（试行）.doc",
+      "unit_count": 148,
+      "chunk_count": 10
+    },
+    {
+      "doc_id": "28",
+      "title": "药物警戒质量管理规范",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/28_药物警戒质量管理规范.doc",
+      "unit_count": 267,
+      "chunk_count": 20
+    },
+    {
+      "doc_id": "3",
+      "title": "药品注册管理办法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/3_药品注册管理办法.pdf",
+      "unit_count": 47,
+      "chunk_count": 45
+    },
+    {
+      "doc_id": "29",
+      "title": "药物临床试验机构管理规定",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/29_药物临床试验机构管理规定.doc",
+      "unit_count": 50,
+      "chunk_count": 5
+    },
+    {
+      "doc_id": "33",
+      "title": "中华人民共和国药品管理法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/33_中华人民共和国药品管理法.pdf",
+      "unit_count": 44,
+      "chunk_count": 42
+    },
+    {
+      "doc_id": "11",
+      "title": "中华人民共和国药品管理法实施条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/11_中华人民共和国药品管理法实施条例.pdf",
+      "unit_count": 26,
+      "chunk_count": 24
+    },
+    {
+      "doc_id": "1",
+      "title": "体外诊断试剂注册与备案管理办法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/1_体外诊断试剂注册与备案管理办法.pdf",
+      "unit_count": 38,
+      "chunk_count": 38
+    },
+    {
+      "doc_id": "23",
+      "title": "药品上市后变更管理办法（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/23_药品上市后变更管理办法（试行）.doc",
+      "unit_count": 68,
+      "chunk_count": 7
+    },
+    {
+      "doc_id": "14",
+      "title": "中华人民共和国中医药法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/14_中华人民共和国中医药法.pdf",
+      "unit_count": 0,
+      "chunk_count": 0
+    },
+    {
+      "doc_id": "8",
+      "title": "医疗器械监督管理条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/8_医疗器械监督管理条例.pdf",
+      "unit_count": 41,
+      "chunk_count": 40
+    },
+    {
+      "doc_id": "32",
+      "title": "中药注册管理专门规定",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/32_中药注册管理专门规定.docx",
+      "unit_count": 120,
+      "chunk_count": 14
+    },
+    {
+      "doc_id": "20",
+      "title": "体外诊断试剂分类规则",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/20_体外诊断试剂分类规则.docx",
+      "unit_count": 53,
+      "chunk_count": 3
+    },
+    {
+      "doc_id": "9",
+      "title": "中华人民共和国个人信息保护法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/9_中华人民共和国个人信息保护法.pdf",
+      "unit_count": 9,
+      "chunk_count": 17
+    },
+    {
+      "doc_id": "22",
+      "title": "药品附条件批准上市申请审评审批工作程序（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/22_药品附条件批准上市申请审评审批工作程序（试行）.doc",
+      "unit_count": 83,
+      "chunk_count": 7
+    },
+    {
+      "doc_id": "21",
+      "title": "突破性治疗药物审评工作程序（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/21_突破性治疗药物审评工作程序（试行）.doc",
+      "unit_count": 83,
+      "chunk_count": 7
+    },
+    {
+      "doc_id": "24",
+      "title": "药品上市许可优先审评审批工作程序（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/24_药品上市许可优先审评审批工作程序（试行）.doc",
+      "unit_count": 83,
+      "chunk_count": 7
+    },
+    {
+      "doc_id": "12",
+      "title": "中华人民共和国疫苗管理法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/12_中华人民共和国疫苗管理法.pdf",
+      "unit_count": 16,
+      "chunk_count": 31
+    },
+    {
+      "doc_id": "16",
+      "title": "关于调整进口药品注册管理有关事项的决定",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/16_关于调整进口药品注册管理有关事项的决定.pdf",
+      "unit_count": 2,
+      "chunk_count": 1
+    },
+    {
+      "doc_id": "4",
+      "title": "药物非临床研究质量管理规范",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/4_药物非临床研究质量管理规范.pdf",
+      "unit_count": 30,
+      "chunk_count": 29
+    },
+    {
+      "doc_id": "30",
+      "title": "药物临床试验机构监督检查办法（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/30_药物临床试验机构监督检查办法（试行）.docx",
+      "unit_count": 70,
+      "chunk_count": 8
+    },
+    {
+      "doc_id": "27",
+      "title": "药物非临床研究质量管理规范认证管理办法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/27_药物非临床研究质量管理规范认证管理办法.docx",
+      "unit_count": 115,
+      "chunk_count": 15
+    },
+    {
+      "doc_id": "5",
+      "title": "放射性药品管理办法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/5_放射性药品管理办法.pdf",
+      "unit_count": 7,
+      "chunk_count": 6
+    },
+    {
+      "doc_id": "31",
+      "title": "优化创新药临床试验审评审批试点工作方案",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/31_优化创新药临床试验审评审批试点工作方案.docx",
+      "unit_count": 35,
+      "chunk_count": 3
+    },
+    {
+      "doc_id": "17",
+      "title": "国家药监局关于药械组合产品注册有关事宜的通告",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/17_国家药监局关于药械组合产品注册有关事宜的通告.docx",
+      "unit_count": 8,
+      "chunk_count": 1
+    },
+    {
+      "doc_id": "26",
+      "title": "药品专利纠纷早期解决机制实施办法（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/26_药品专利纠纷早期解决机制实施办法（试行）.doc",
+      "unit_count": 36,
+      "chunk_count": 5
+    },
+    {
+      "doc_id": "25",
+      "title": "药品注册审评结论异议解决程序（试行）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/25_药品注册审评结论异议解决程序（试行）.doc",
+      "unit_count": 51,
+      "chunk_count": 4
+    },
+    {
+      "doc_id": "18",
+      "title": "化学药品注册分类及申报资料要求",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/18_化学药品注册分类及申报资料要求.doc",
+      "unit_count": 30,
+      "chunk_count": 3
+    },
+    {
+      "doc_id": "13",
+      "title": "中华人民共和国政府信息公开条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/13_中华人民共和国政府信息公开条例.pdf",
+      "unit_count": 12,
+      "chunk_count": 11
+    },
+    {
+      "doc_id": "6",
+      "title": "麻醉药品和精神药品管理条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/6_麻醉药品和精神药品管理条例.pdf",
+      "unit_count": 30,
+      "chunk_count": 30
+    },
+    {
+      "doc_id": "2",
+      "title": "药品进口管理办法",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/2_药品进口管理办法.pdf",
+      "unit_count": 19,
+      "chunk_count": 17
+    },
+    {
+      "doc_id": "7",
+      "title": "血液制品管理条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/7_血液制品管理条例.pdf",
+      "unit_count": 13,
+      "chunk_count": 11
+    },
+    {
+      "doc_id": "15",
+      "title": "中药品种保护条例",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/15_中药品种保护条例.pdf",
+      "unit_count": 7,
+      "chunk_count": 5
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCP法规问答"
+  short_description: "基于本地RAG检索临床试验法规并提供可追溯来源证据"
+  default_prompt: "Use $gcp-regulations-qa to answer a GCP regulation question with cited sources."

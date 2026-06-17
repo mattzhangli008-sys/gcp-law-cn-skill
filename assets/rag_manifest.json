@@ -1,11 +1,11 @@
 {
-  "created_at": "2026-06-11T15:44:29",
+  "created_at": "2026-06-17T16:52:27",
   "python": "python3.12",
   "collection": "gcp_regulations",
   "chroma_dir": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/rag_chroma",
   "embedding_function": "hash_ngram_1024",
-  "document_count": 32,
-  "chunk_count": 466,
+  "document_count": 34,
+  "chunk_count": 488,
   "metadata_fields": [
     "article_no",
     "authority",
@@ -254,6 +254,20 @@
       "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/15_中药品种保护条例.pdf",
       "unit_count": 7,
       "chunk_count": 5
+    },
+    {
+      "doc_id": "34",
+      "title": "药物临床试验质量管理规范（2026年修订）",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/34_药物临床试验质量管理规范（2026年修订）.doc",
+      "unit_count": 168,
+      "chunk_count": 19
+    },
+    {
+      "doc_id": "35",
+      "title": "《药物临床试验质量管理规范（2026年修订）》问答文件",
+      "source_path": "/Users/zhangli/Documents/Codex/2026-06-11/https-www-aiinct-com-regulations-documents/downloads/35_药物临床试验质量管理规范（2026年修订）问答文件.doc",
+      "unit_count": 22,
+      "chunk_count": 3
     }
   ]
 }
